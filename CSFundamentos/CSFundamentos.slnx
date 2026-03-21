@@ -1,0 +1,20 @@
+<Solution>
+  <Project Path="Constantes/Constantes.csproj" />
+  <Project Path="ConversaoTipos/ConversaoTipos.csproj" />
+  <Project Path="CSFundamentos/TiposDeDados1.csproj" />
+  <Project Path="EntradaDeDados1/EntradaDeDados1.csproj" />
+  <Project Path="InferenciaTipos/InferenciaTipos.csproj" />
+  <Project Path="OperadoresAritmeticos/OperadoresAritmeticos.csproj" />
+  <Project Path="OperadoresAtribuicao/OperadoresAtribuicao.csproj" />
+  <Project Path="OperadoresIncrementoDecremento/OperadoresIncrementoDecremento.csproj" />
+  <Project Path="OperadoresLogicos/OperadoresLogicos.csproj" />
+  <Project Path="OperadoresRelacionais/OperadoresRelacionais.csproj" />
+  <Project Path="OperadorUniarioETernario/OperadorUniarioETernario.csproj" />
+  <Project Path="PrecedenciaOperadores/PrecedenciaOperadores.csproj" />
+  <Project Path="SaidaDeDados/SaidaDeDados.csproj" />
+  <Project Path="TipoDateTime/TipoDateTime.csproj" />
+  <Project Path="TiposAnulaveis/TiposAnulaveis.csproj" />
+  <Project Path="TiposDeDados2/TiposDeDados2.csproj" />
+  <Project Path="TiposDeDados3/TiposDeDados3.csproj" />
+  <Project Path="TiposDeDados4/TiposDeDados4.csproj" />
+</Solution>
