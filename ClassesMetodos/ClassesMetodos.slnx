@@ -1,0 +1,21 @@
+<Solution>
+  <Project Path="ArgumentosNomeados/ArgumentosNomeados.csproj" Id="1c27aa6b-4c58-42e2-beb0-cd1d0327c7ba" />
+  <Project Path="ArgumentosPorReferencia/ArgumentosPorReferencia.csproj" Id="e2b1a10a-eb79-405b-83db-b054a38d5eed" />
+  <Project Path="CamposEstaticos/CamposEstaticos.csproj" Id="70074687-dd89-4a13-9a8a-6276507bd210" />
+  <Project Path="ClassesMetodos/ClassesMetodos.csproj" />
+  <Project Path="Construtores/Construtores.csproj" Id="1c00964d-d972-4db6-9f60-a44bbfecbcd6" />
+  <Project Path="ConstrutorEstatico/ConstrutorEstatico.csproj" Id="39a380a4-d6e1-4248-8638-848c3c5b001f" />
+  <Project Path="Enum/Enum.csproj" Id="9c2e728e-9a82-4a8e-865e-a43345666677" />
+  <Project Path="Estruturas/Estruturas.csproj" Id="c026a634-42b6-40c1-b06c-cee73dd8ce60" />
+  <Project Path="Exercicio1/Exercicio1.csproj" Id="34f69b48-8a7f-40ec-95fb-9d7c5c0c4664" />
+  <Project Path="Exercicio2/Exercicio2.csproj" Id="25867111-a5c9-4817-942a-eab34bc452c8" />
+  <Project Path="MetodosEstaticos/MetodosEstaticos.csproj" Id="8cee30d0-d9a8-4e26-b885-fcd6aad82102" />
+  <Project Path="MetodoSobrecarga/MetodoSobrecarga.csproj" Id="c205b05e-e320-4cbc-ac25-22d7605fb10d" />
+  <Project Path="MetodosParametros/MetodosParametros.csproj" Id="c0ad2d49-d779-4a2d-9468-fdd4066ed6f3" />
+  <Project Path="MetodosRetorno/MetodosRetorno.csproj" Id="b6f1a73b-1ffd-4bac-bf52-44ef2df7ef89" />
+  <Project Path="ParametrosOpcionais/ParametrosOpcionais.csproj" Id="40b7f547-1756-4c8f-9b0b-c8b9690ba039" />
+  <Project Path="ParametrosPorValor/ParametrosPorValorEReferencia.csproj" Id="78f4c0ea-aa99-4715-8023-9472d198ea68" />
+  <Project Path="Propriedades/Propriedades.csproj" Id="7e09de41-fce5-49e5-8c81-48ff7f58c88b" />
+  <Project Path="This/This.csproj" Id="bd2151d6-adef-4c9f-a7ba-6033be23ffc6" />
+  <Project Path="TratamentoDeErros/TratamentoDeErros.csproj" Id="c0d632d8-71de-4445-b6d3-588a1eef2e4d" />
+</Solution>
