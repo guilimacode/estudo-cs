@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="CamposEstaticos/CamposEstaticos.csproj" Id="1b24b97a-960a-4e9a-891a-0e981f7b486a" />
+  <Project Path="Estrutura_if/Estrutura_if.csproj" />
+  <Project Path="Estrutura_switch/Estrutura_switch.csproj" />
+  <Project Path="Repeticao_dowhile/Repeticao_dowhile.csproj" />
+  <Project Path="Repeticao_for/Repeticao_for.csproj" />
+  <Project Path="Repeticao_goto/Repeticao_goto.csproj" />
+  <Project Path="Repeticao_while/Repeticao_while.csproj" />
+</Solution>
