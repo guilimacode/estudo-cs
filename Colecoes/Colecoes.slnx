@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="ArrayBidimencionalExercicio/ArrayBidimencionalExercicio.csproj" Id="f14ffc9f-63e1-4482-9a27-89ef23adcf76" />
+  <Project Path="ArrayList/ArrayList.csproj" Id="a0d1f03b-07e6-4a1c-8d1a-335d7c162076" />
+  <Project Path="ArraysExercicios/ArraysExercicios.csproj" />
+  <Project Path="ArraysMultidimensionais/ArraysBidimensionais.csproj" Id="86a427b0-6b7c-4f1e-ad4d-abc65f3d25a0" />
+  <Project Path="Colecoes/Arrays.csproj" />
+  <Project Path="Exercicios1/Exercicios1.csproj" Id="9675939d-0930-4fa5-8335-9759fa776906" />
+  <Project Path="Indexadores/Indexadores.csproj" Id="25c629a4-4f80-4a8a-aedc-b94dd7400844" />
+  <Project Path="List/List.csproj" Id="30e1a68f-e267-455f-9621-d968118257a4" />
+  <Project Path="ListaExercicio/ListaExercicio.csproj" Id="7d73a28d-fb92-4b0b-8981-56b9a710b8ec" />
+  <Project Path="MetodosFind/MetodosFind.csproj" Id="30aa2ef1-c58e-47b8-babf-18f9e0dd79bf" />
+  <Project Path="ModificadorParams/ModificadorParams.csproj" Id="72464eda-4257-4282-9205-1f69f72664cc" />
+</Solution>
