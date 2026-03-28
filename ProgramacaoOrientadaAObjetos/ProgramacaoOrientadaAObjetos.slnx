@@ -1,0 +1,21 @@
+<Solution>
+  <Project Path="Acoplamento/HerancaComposicao.csproj" Id="503ef880-71cb-4c80-9748-320555607b3a" />
+  <Project Path="Agregacao/Agregacao.csproj" Id="c7832b73-73ec-48cf-a597-902c4df96d90" />
+  <Project Path="ClassesAbstratas/ClassesAbstratas.csproj" Id="a4bf4986-21e8-43ca-b63a-dfa4d393fc1a" />
+  <Project Path="Exercicio1/Exercicio1.csproj" Id="62250848-d680-4292-a552-ff28233bfb93" />
+  <Project Path="Exercicio2/Exercicio2.csproj" Id="0f62d59b-6eae-4b60-8c0e-7e4f119b3851" />
+  <Project Path="Exercicio3/Exercicio3.csproj" Id="8b251164-0f0f-4ff1-be81-393211a74347" />
+  <Project Path="HerancaConstrutores/HerancaConstrutores.csproj" />
+  <Project Path="HerancaExercicio/HerancaExercicio.csproj" Id="337b94d6-abe8-4ee5-92f0-da30f0ea4e82" />
+  <Project Path="HerancaTipos/HerancaTipos.csproj" Id="266d6649-1c88-4c4f-bea7-11fc3b5647af" />
+  <Project Path="HerancaVirtualOverride/HerancaVirtualOverride.csproj" />
+  <Project Path="Heranca_ModifAcesso/Heranca_ModifAcesso.csproj" />
+  <Project Path="InterfaceExercicio/InterfaceExercicio.csproj" Id="61984586-a084-4fa2-a613-d8259516b64d" />
+  <Project Path="Interfaces/Interfaces.csproj" Id="8ba7f5c1-3583-48fc-b449-29591a5f8235" />
+  <Project Path="ModificadorSealed/ModificadorSealed.csproj" Id="eae9dcdd-c018-423f-a016-d70a7988efb8" />
+  <Project Path="OperadorAs/OperadorAs.csproj" Id="65fb7ba1-790f-4fd8-a29f-67093207569d" />
+  <Project Path="Polimorfismo/Polimorfismo.csproj" Id="32549bec-e221-4d1f-a9ed-56ac9f8c0784" />
+  <Project Path="Polimorfismo2/Polimorfismo2.csproj" Id="874b1253-4241-4d24-843c-d524bcf6f3cf" />
+  <Project Path="ProgramacaoOrientadaAObjetos/Heranca.csproj" />
+  <Project Path="UpcastingDowncasting/UpcastingDowncasting.csproj" Id="816cfa8c-5c1b-44d9-9991-17c7837d6318" />
+</Solution>
