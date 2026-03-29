@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ExcecoesPersonalizadas/ExcecoesPersonalizadas.csproj" Id="7d416c81-672c-45c8-aec8-0a5d8d65a90c" />
+  <Project Path="ExceptionFilters/ExceptionFilters.csproj" Id="2479ffb7-e937-47a3-8033-817a5a62d7c3" />
+  <Project Path="ExceptionFiltersExercicio/ExceptionFiltersExercicio.csproj" Id="034e3702-61e2-4817-9567-5b5b3abebafa" />
+  <Project Path="ThrowExceptions/ThrowExceptions.csproj" Id="c8706dd2-db11-4b37-94b4-8d65fbfa0903" />
+  <Project Path="TratamentoDeErros/TryCatchFinally.csproj" />
+</Solution>
