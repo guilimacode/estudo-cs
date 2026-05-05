@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DesserializacaoJSON/DesserializacaoJSON.csproj" Id="9b9b435b-17d8-45f7-891b-aa350d4004ea" />
+  <Project Path="DesserializacaoXML/DesserializacaoXML.csproj" />
+  <Project Path="SerializacaoJSON/SerializacaoJSON.csproj" />
+  <Project Path="SerializacaoXML/SerializacaoXML.csproj" />
+</Solution>
