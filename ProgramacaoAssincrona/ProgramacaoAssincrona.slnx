@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CancellationToken/CancellationToken.csproj" Id="45cbfffe-f37b-4a63-8dd3-eff5383a79a2" />
+  <Project Path="Task/Task.csproj" />
+  <Project Path="ValueTask/ValueTask.csproj" />
+</Solution>
