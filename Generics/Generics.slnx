@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="Dictionary/Dictionary.csproj" Id="f79709ae-09c7-4a08-ad83-2dc3f336c307" />
+  <Project Path="DictionaryExercicio/DictionaryExercicio.csproj" Id="6aa6844f-437a-4bab-a001-962be247c121" />
+  <Project Path="Generics/Generics.csproj" />
+  <Project Path="GetHashCode_Equals/GetHashCode_Equals.csproj" Id="1227b2f6-7318-4181-8abc-3f053eaab3da" />
+  <Project Path="Queue/Queue.csproj" Id="a6b7e696-873c-46d7-9242-96cb5481022a" />
+  <Project Path="QueueExercicio/QueueExercicio.csproj" Id="4240beeb-fd51-4bb8-acf6-71cd7f89775e" />
+  <Project Path="ReadOnlyCollection/ReadOnlyCollection.csproj" Id="e56b5ec2-662a-4cf5-adaa-1ecff571196c" />
+  <Project Path="SortedDictionary/SortedDictionary.csproj" Id="f655c181-daa6-4e8c-8dee-180badf728b6" />
+  <Project Path="SortedSet/SortedSet.csproj" Id="2e99dc35-8bc4-4dbb-b139-439a6bb642cb" />
+  <Project Path="Stack/Stack.csproj" Id="95573621-f6df-4565-8c59-2120a5b967da" />
+  <Project Path="StackUndo/StackUndo.csproj" Id="a092a14f-422e-4fb5-97ac-a8ed38305baf" />
+</Solution>
