@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="DelegateAction/DelegateAction.csproj" Id="8006bb50-f139-48d5-9ed1-2d50083f8f50" />
+  <Project Path="DelegateFunc/DelegateFunc.csproj" Id="2dd2cf75-f0de-491a-9b1e-53acd2e85494" />
+  <Project Path="DelegatePredicate/DelegatePredicate.csproj" Id="bcffc9f4-b88f-45d1-842f-7a02e19667ab" />
+  <Project Path="Delegates/Delegates.csproj" />
+  <Project Path="DelegatesExercicio/DelegatesExercicio.csproj" Id="e204b9fc-d9f3-4718-9d13-0caf46108e80" />
+  <Project Path="Eventos/Eventos.csproj" Id="1e789a63-bb47-405f-8d84-6e0924975269" />
+  <Project Path="ExpressoesLambda/ExpressoesLambda.csproj" />
+  <Project Path="MetodosAnonimos/MetodosAnonimos.csproj" />
+  <Project Path="MulticastDelegates/MulticastDelegates.csproj" />
+</Solution>
