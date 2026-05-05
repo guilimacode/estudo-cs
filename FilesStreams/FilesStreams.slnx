@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Directory/Directory.csproj" Id="e6364310-ef9b-4e6b-8361-05e6c835b9a1" />
+  <Project Path="FileInfo/FileInfo.csproj" Id="5d607368-7bed-4cae-b960-132b5a37bfbc" />
+  <Project Path="Files/Files.csproj" />
+  <Project Path="FileStream/FileStream.csproj" Id="a4226ed4-c4bc-492c-91d4-f366b4ee2f21" />
+  <Project Path="StreamsExercicio1/StreamsExercicio1.csproj" Id="5b441cea-17c1-40af-afd8-8086df704289" />
+</Solution>
